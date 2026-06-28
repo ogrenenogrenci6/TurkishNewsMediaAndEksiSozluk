@@ -1,0 +1,81 @@
+﻿topic,date,Ayse_labeling,text,sentiment_score,irony_flag,my_manual_label,ai_label,notes,ground_truth,berturk_label
+economy,2026-06-05,negative,(bkz: faizin olduğu yerde bereket olmaz/@bakalim ),0.8898,False,negative,negative,,negative,positive
+politics,2024-08-20,negative,türkiye 'de olmayan birşey,-0.1837,False,negative,negative,ironic,negative,neutral
+economy,2024-07-17,negative,ateşi yavaş yavaş düşüyormuş,-0.1666,False,negative,negative,ironic,negative,neutral
+economy,2025-08-22,negative,1 usd = 146 japon yeni,-0.9832,False,negative,neutral,,negative,negative
+national,2024-07-01,positive,şehit yerinde olmak istenendir,-0.2569,False,positive,neutral,,positive,neutral
+economy,2026-02-05,positive,tl değil ancak dolar olarak tutmak çok mantıklı,0.8088,False,negative,negative,ironic,negative,positive
+economy,2024-08-05,negative,eğer yerli piyasadaki satışların,-0.969,False,neutral,neutral,,neutral,negative
+economy,2024-10-05,negative,eski yöneticiler tek masada oturup,0.1625,False,neutral,negative,,negative,neutral
+economy,2026-06-14,negative,en kariyerli çalışanın bile,0.2606,False,negative,negative,,negative,neutral
+politics,2026-03-05,negative,üniversitenin son senesiydi,-0.2981,True,negative,neutral,,negative,neutral
+economy,2026-01-29,negative,millet işsizlikten iş aramayı bıraktığı için,-0.9622,False,negative,negative,ironic,negative,negative
+economy,2024-07-04,neutral,ekonomik ilişkileri çözümlemenin,0.9261,False,positive,neutral,,neutral,positive
+economy,2025-04-07,positive,deli yatırımcılar vardır,-0.3793,False,negative,neutral,,NO_MAJORITY,negative
+economy,2026-02-16,negative,doların adil değeri diye bir durum yok,-0.9322,False,negative,negative,,negative,negative
+economy,2025-09-10,negative,36 senede %1.800.000 civarında değer kazanmış,0.3004,False,negative,negative,,negative,neutral
+economy,2025-02-07,neutral,türkiyede 2025 yılı ocak/aralık,-0.3821,False,positive,neutral,,neutral,negative
+economy,2026-06-01,negative,işsizliği denedim,-0.9951,False,negative,negative,,negative,negative
+politics,2025-12-06,negative,auguste comte,-0.9466,False,negative,negative,,negative,negative
+national,2024-12-26,negative,aklınızdan tamamen çıktığı anda gelir,0.6729,False,positive,neutral,,NO_MAJORITY,positive
+economy,2025-03-21,positive,bu pazarların bazen değişik günleri olur,0.3097,False,neutral,neutral,,neutral,neutral
+economy,2024-10-31,negative,okulda sürekli peşimi bırakmayan,0.9866,False,neutral,neutral,,neutral,positive
+politics,2025-03-31,neutral,(bkz: kolektif ruminasyon ),0.9944,False,neutral,neutral,,neutral,positive
+economy,2024-07-28,neutral,(bkz: geçinge ),0.8164,False,neutral,neutral,,neutral,positive
+economy,2025-07-14,negative,bugün 40.22 yi görmüştür,0.9614,False,negative,negative,,negative,positive
+economy,2025-08-22,negative,doların yükselmesi gerektiğini söyleyen,-0.2277,False,negative,negative,,negative,neutral
+economy,2025-11-12,negative,ayağını yorganına göre uzat,0.9865,False,positive,neutral,,NO_MAJORITY,positive
+economy,2025-09-07,negative,yarın 8 eylül 2025 dolar kuru,-0.3218,False,negative,negative,,negative,neutral
+economy,2026-06-01,negative,insanın sınanmaması gereken bir durum,0.2665,False,negative,negative,,negative,neutral
+economy,2025-01-17,negative,asıl sebebi devletin karşılıksız para basmasıdır,-0.9978,False,negative,negative,,negative,negative
+economy,2024-12-24,negative,yoksuldan alinan dolayli bir vergidir,-0.2336,False,negative,negative,,negative,neutral
+economy,2026-01-08,negative,dönüp dolaşıp kendimi içinde bulduğum durum,0.9355,False,negative,negative,ironic,negative,positive
+economy,2024-10-23,negative,yüzde 1 yada 2 bile bir ülke için kötüdür,0.5927,False,neutral,neutral,,neutral,positive
+politics,2026-05-22,neutral,bu anayasada şöyle bir madde var,0.8072,False,positive,negative,,NO_MAJORITY,positive
+economy,2025-10-28,neutral,2025 ekim'de politika faizleri,0.789,False,neutral,neutral,,neutral,positive
+economy,2024-06-27,negative,kralın biri sarayında otururken,0.9653,False,negative,negative,ironic,negative,positive
+economy,2024-04-15,negative,uzun vadeli ve düzenli olarak alınması gereken,-0.2896,False,negative,neutral,,negative,neutral
+economy,2025-07-08,negative,evet dolar kuru bu aralar,-0.6814,False,negative,negative,,negative,negative
+economy,2026-05-24,negative,sakin ol aslanım sakin,0.9979,False,positive,positive,,positive,positive
+national,2026-01-11,negative,şimdi yeniden oldu,0.8099,False,negative,negative,,negative,positive
+economy,2026-02-23,negative,uzun bir çalışma hayatından sonra,-0.2719,False,negative,negative,,negative,neutral
+national,2025-07-02,negative,sallandık maltepe,-0.6081,False,negative,negative,,negative,negative
+economy,2024-12-05,negative,haraç ile kullanım şekli benzerdir,-0.2685,False,negative,negative,,negative,neutral
+economy,2025-11-30,negative,sanat mezunlarını,-0.1916,False,negative,negative,ironic,negative,neutral
+economy,2025-03-24,negative,bir ülkenin gelişip ilerlemesinin tek yoludur,-0.7951,True,negative,negative,,negative,negative
+economy,2024-07-04,negative,bir ortaklık bağı,0.9959,False,positive,negative,,negative,positive
+national,2025-11-10,negative,sayesinde uykumdan titreyerek uyandım,0.302,False,negative,negative,,negative,neutral
+economy,2026-05-24,neutral,tanımı son derece basittir,-0.9875,False,negative,neutral,,neutral,negative
+economy,2026-01-02,neutral,görsel 2022 de bir alışveriş,-0.2444,False,positive,neutral,,neutral,neutral
+national,2025-04-03,negative,fransız devrimi sırasında,-0.2945,False,negative,negative,,negative,neutral
+economy,2025-11-09,negative,insanın cesaretini,-0.9813,False,negative,negative,,negative,negative
+economy,2024-07-16,negative,gizli vergidir,-0.1651,False,neutral,neutral,,neutral,neutral
+national,2025-07-02,negative,ben hissetmedim ama eşim hissetmiş,0.2954,False,negative,neutral,,negative,neutral
+economy,2024-06-04,neutral,benden alınıyorsa herkesten alınsın,-0.3104,False,neutral,neutral,,neutral,neutral
+economy,2024-09-16,neutral,türkiye'de enflasyonun dünü ve bugünü,0.5111,False,neutral,neutral,,neutral,positive
+economy,2026-06-17,negative,en son ne zaman mutlu olduğunu,0.9356,False,negative,negative,ironic,negative,positive
+economy,2025-08-23,negative,"dolar, kuru merak etmeyin",-0.9682,False,negative,negative,,negative,negative
+economy,2026-02-13,negative,gelin lan gelin anlatayım,0.7004,False,negative,negative,ironic,negative,positive
+economy,2025-11-26,negative,üstteki entry'de denildiği gibi,0.6377,False,neutral,neutral,,neutral,positive
+economy,2025-07-27,negative,asıl şok ocak ayında gelecek,0.3712,False,negative,negative,ironic,negative,positive
+politics,2025-04-08,neutral,"anayasa, bir kral",-0.9914,False,negative,neutral,,neutral,negative
+economy,2025-02-15,negative,kıssadan güzel bir hisse,0.6904,False,neutral,negative,,negative,positive
+economy,2025-09-26,negative,1995 senesinde siyonistlerce,-0.3985,False,negative,negative,,negative,negative
+economy,2025-08-21,negative,dolar inadınıza durmayın,-0.9961,False,negative,negative,ironic,negative,negative
+economy,2026-01-18,positive,ulkemizin gercegidir ne yazik ki,0.7282,False,positive,positive,,positive,positive
+economy,2025-10-27,neutral,2026 yılında ciddi hareketlilik,0.6693,False,neutral,neutral,,neutral,positive
+economy,2025-07-15,negative,iyi insanlarin emeklerinin meyvesini calip,-0.7492,False,negative,negative,,negative,negative
+economy,2025-11-08,neutral,değerin dağılımını inceleyen disiplin,0.3147,False,neutral,neutral,,neutral,neutral
+economy,2026-02-16,negative,arkadaşlar adil değerini hesaplamışlar,-0.2344,False,negative,negative,,negative,neutral
+national,2026-03-06,negative,başta doğurduğu coşkulu heyecan,0.9539,False,negative,negative,,negative,positive
+economy,2025-04-29,negative,artmasını öcü gibi gösteren kesim,-0.9878,False,negative,negative,,negative,negative
+economy,2025-03-16,negative,avrupada restoran enflasyonunda,0.249,False,negative,negative,ironic,negative,neutral
+economy,2024-02-26,positive,amerikan borsasına yatırım yapılmak,0.996,False,positive,positive,,positive,positive
+politics,2026-05-29,positive,çıkarların buluştuğu yerdir,0.9735,False,positive,neutral,,positive,positive
+economy,2026-05-10,negative,ülkeyi soymanın en kolay yollarından,-0.9801,False,negative,negative,,negative,negative
+politics,2025-07-31,negative,"chp, tip, saadet ve sosyalist partiler",-0.2694,False,negative,negative,,negative,neutral
+economy,2025-05-19,negative,enflasyon devletin halkı kazıklama yöntemidir,-0.9963,False,negative,negative,,negative,negative
+national,2026-01-24,negative,öncelikle depremin ya da diğer doğal afet,-0.9936,False,negative,negative,,negative,negative
+economy,2024-04-19,neutral,bir bilim dalıdır,0.9942,True,positive,neutral,,neutral,positive
+economy,2025-11-19,negative,"giderek artacak, çığ gibi büyeyecek",-0.9926,False,negative,negative,,negative,negative
+economy,2024-05-05,negative,dunyadaki bir cok ulkede gorunmeyen cast sistemlerini,-0.3169,False,neutral,negative,,negative,neutral
